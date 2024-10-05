@@ -2,14 +2,14 @@
 
 I’m Pedro Silva, a passionate software developer from Brazil. My journey in the world of technology began when I was 12 years old, and ever since, I’ve been building and maintaining software with a deep focus on creating impactful, reliable solutions. I'm also proud to hold a degree in Computer Engineering from CEFET-MG.
 
-Currently, I am the Information Security Officer at Cerebrum, a company dedicated to providing verifiable credentials technology for organizations that thrive on trust and transparency. In this role, I’m responsible for ensuring the security, compliance and integrity of our systems, while helping the company build trust-driven, cutting-edge technology solutions.
+Currently, I am the **Information Security Officer** at [Cerebrum](https://cerebrum.com), a company dedicated to providing verifiable credentials technology for organizations that thrive on trust and transparency. In this role, I’m responsible for ensuring the security, compliance and integrity of our systems, while helping the company build trust-driven, cutting-edge technology solutions.
 
 ## About Me
 - **🌍 Nationality**: Brazilian 🇧🇷
 - **💻 Professional Experience**: 7 years of software development, IT infrastructure security, maintenance and compliance.
 - **💻 Experience**: Over 15 years of software development and systems architecture.
 - **🎓 Education**: Bachelor's degree in Computer Engineering from CEFET-MG.
-- **🚀 Current Role**: Information Security Officer at Cerebrum.
+- **🚀 Current Role**: Information Security Officer at [Cerebrum](https://cerebrum.com).
 - **🔐 Passion**: Information security, blockchain, and technologies that enhance trust and transparency.
 - **💡 Skills**: Software development, system architecture, cybersecurity, verifiable credentials, blockchain, and DevSecOps.
 
