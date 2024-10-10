@@ -10,12 +10,12 @@ Currently, I am the **Information Security Officer** at [Cerebrum](https://cereb
 - **💻 Experience**: Over 15 years of software development and systems architecture.
 - **🎓 Education**: Bachelor's degree in Computer Engineering from CEFET-MG.
 - **🚀 Current Role**: Information Security Officer at [Cerebrum](https://cerebrum.com).
-- **🔐 Passion**: Information security, blockchain, and technologies that enhance trust and transparency.
+- **🔐 Passion**: Designing and maintaining reliable, useful, future-proof solutions.
 - **💡 Skills**: Software development, system architecture, cybersecurity, verifiable credentials, blockchain, and DevSecOps.
 
 ## Beyond Tech: My Other Passions
 
-In addition to my professional career, I have a deep passion for **motorsport** and **music**. I'm an **amateur kart driver** and **sim racing enthusiast**, spending some of my free time perfecting my skills on virtual tracks. I’m currently preparing for the day when I can translate the knowledge gained from racing simulators into real-life racing experiences, which I hope will be soon!
+In addition to my professional career, I have a deep passion for **motorsports** and **music**. I'm an **amateur kart driver** and **sim racing enthusiast**, spending some of my free time perfecting my skills on virtual tracks. I’m currently preparing for the day when I can translate the knowledge gained from racing simulators into real-life racing experiences, which I hope will be soon!
 
 Music also plays a big part in my life, serving as both inspiration and a way to unwind from the technical world.
 
