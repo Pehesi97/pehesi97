@@ -6,7 +6,7 @@ Currently, I am the **Information Security Officer** at [Cerebrum](https://cereb
 
 ## About Me
 - **🌍 Nationality**: Brazilian 🇧🇷
-- **💻 Professional Experience**: 7 years of software development, IT infrastructure security, maintenance and compliance.
+- **💻 Professional Experience**: 9 years of software development, IT infrastructure security, maintenance and compliance.
 - **💻 Experience**: Over 15 years of software development and systems architecture.
 - **🎓 Education**: Bachelor's degree in Computer Engineering from CEFET-MG.
 - **🚀 Current Role**: Information Security Officer at [Cerebrum](https://cerebrum.com).
