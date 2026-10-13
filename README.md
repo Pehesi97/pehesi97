@@ -1,24 +1,37 @@
-# Hi there, I'm Pedro Silva 👋
+# Pedro Silva
 
-I’m Pedro Silva, a passionate software developer from Brazil. My journey in the world of technology began when I was 12 years old, and ever since, I’ve been building and maintaining software with a deep focus on creating impactful, reliable solutions. I'm also proud to hold a degree in Computer Engineering from CEFET-MG.
+Engineering, security, and making things run better.
 
-Currently, I am the **Information Security Officer** at [Cerebrum](https://cerebrum.com), a company dedicated to providing verifiable credentials technology for organizations that thrive on trust and transparency. In this role, I’m responsible for ensuring the security, compliance and integrity of our systems, while helping the company build trust-driven, cutting-edge technology solutions.
+I'm the CISO at [Cerebrum](https://cerebrum.com), with a background
+in software engineering, infrastructure, and systems architecture.
 
-## About Me
-- **🌍 Nationality**: Brazilian 🇧🇷
-- **💻 Professional Experience**: 9 years of software development, IT infrastructure security, maintenance and compliance.
-- **💻 Experience**: Over 15 years of software development and systems architecture.
-- **🎓 Education**: Bachelor's degree in Computer Engineering from CEFET-MG.
-- **🚀 Current Role**: Information Security Officer at [Cerebrum](https://cerebrum.com).
-- **🔐 Passion**: Designing and maintaining reliable, useful, future-proof solutions.
-- **💡 Skills**: Software development, system architecture, cybersecurity, verifiable credentials, blockchain, and DevSecOps.
+My current focus is automation, operational efficiency, and the
+responsible use of AI — from LLMs to systems that make decisions.
+I'm interested in where these tools help, where they fail, and
+how to put them to work safely.
 
-## Beyond Tech: My Other Passions
+I started coding at 12 and graduated in Computer Engineering
+from CEFET-MG, Brazil. I still like getting into the details
+and building things myself.
 
-In addition to my professional career, I have a deep passion for **motorsports** and **music**. I'm an **amateur kart driver** and **sim racing enthusiast**, spending some of my free time perfecting my skills on virtual tracks. I’m currently preparing for the day when I can translate the knowledge gained from racing simulators into real-life racing experiences, which I hope will be soon!
+## Selected work
 
-Music also plays a big part in my life, serving as both inspiration and a way to unwind from the technical world.
+- **[Intelbras AMT for Home Assistant](https://github.com/Pehesi97/intelbras-amt-home-assistant)**
+  — Local monitoring and control for Intelbras alarm panels.
 
-## Let's Connect!
-- **📫 Email**: [pehesi97@wisenet.inf.br](mailto:pehesi97@wisenet.inf.br)
-- **🌐 LinkedIn**: [pehesi97](https://linkedin.com/in/pehesi97)
+- **[Super Gado Bros](https://github.com/Pehesi97/super-gado-bros)**
+  — A fighting game in 720 × 50 pixels.
+
+## Beyond software
+
+Motorsport has made it out of the simulator:
+in 2025, I competed in the
+[Copa ECPA de Fórmula Vee](https://torneios.amika.com.br/fvee-ecpa-2025/mural/classificacao.php?categoria=822).
+
+Karting, sim racing, and music are also part of the picture.
+There's always that one tenth to find.
+
+---
+
+[LinkedIn](https://linkedin.com/in/pehesi97) ·
+[Email](mailto:pehesi97@wisenet.inf.br)
